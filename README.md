@@ -12,5 +12,5 @@ My name is Marcelo and I'm Analyst / Developer, Business Intelligence (BI).
 
 <br/>.📚 Business Intelligence (BI) | Data Analyst.
 <br/>.💙 In love with  Power BI .
-<br/>.🌱 Currently learning SSIS and Pentaho and Agile methodologies.
+<br/>.🌱 Currently learning SSIS, Pentaho and Agile methodologies.
 <br/>.💻  Techs: Python, SQL Server and Power BI.
